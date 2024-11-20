@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Registrasion Blank email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>182e4106-5556-4be9-b67a-0702f385c4c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8abe476-ca9d-43bb-a701-76d34d46ac8e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3632ee02-af38-4d60-898c-5cd1aaee3000</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c289221-d873-4b31-b754-9a82bb34418a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fab3e0a7-ebbb-48af-b17e-35400c9ee8ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8abe476-ca9d-43bb-a701-76d34d46ac8e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'p01Ya3wsGwKHaDFUmrbV9g=='</defaultValue>
+      <description></description>
+      <id>3632ee02-af38-4d60-898c-5cd1aaee3000</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'p01Ya3wsGwKHaDFUmrbV9g=='</defaultValue>
+      <description></description>
+      <id>1c289221-d873-4b31-b754-9a82bb34418a</id>
+      <masked>false</masked>
+      <name>repeat_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'bukan dina chan'</defaultValue>
+      <description></description>
+      <id>fab3e0a7-ebbb-48af-b17e-35400c9ee8ba</id>
+      <masked>false</masked>
+      <name>answer</name>
+   </variable>
+</TestCaseEntity>

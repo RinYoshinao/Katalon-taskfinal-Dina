@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-UpdateBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdeaaad9-ddc4-4ca1-b79a-ac1af0ba00fd</testCaseGuid>
+</TestCaseEntity>

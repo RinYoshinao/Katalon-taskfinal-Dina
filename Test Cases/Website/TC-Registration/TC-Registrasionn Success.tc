@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Registrasionn Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be2b3bae-9403-49d2-aedb-45ad6b915b85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47279896-9c6f-4f04-b4c9-2bf911490c5b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b559f82c-ab84-436a-82bb-ce73c158a0bd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d734ba28-5194-485b-800f-1c0f037cb3b7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e39141b0-788c-4de1-8483-50a32cdca02d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nekonekonyampasu3@gmail.com'</defaultValue>
+      <description></description>
+      <id>47279896-9c6f-4f04-b4c9-2bf911490c5b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'p01Ya3wsGwKHaDFUmrbV9g=='</defaultValue>
+      <description></description>
+      <id>b559f82c-ab84-436a-82bb-ce73c158a0bd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'p01Ya3wsGwKHaDFUmrbV9g=='</defaultValue>
+      <description></description>
+      <id>d734ba28-5194-485b-800f-1c0f037cb3b7</id>
+      <masked>false</masked>
+      <name>repeat_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'bukan dina chan'</defaultValue>
+      <description></description>
+      <id>e39141b0-788c-4de1-8483-50a32cdca02d</id>
+      <masked>false</masked>
+      <name>answer_question</name>
+   </variable>
+</TestCaseEntity>

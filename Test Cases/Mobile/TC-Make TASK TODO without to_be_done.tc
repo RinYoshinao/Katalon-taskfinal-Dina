@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Make TASK TODO without to_be_done</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e93d7f7-7a6a-4063-a78f-fc55d508e4c9</testCaseGuid>
+</TestCaseEntity>
